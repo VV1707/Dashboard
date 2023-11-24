@@ -10,8 +10,11 @@ root.render(
     <App />
   </React.StrictMode>
 );
-
-// If you want to start measuring performance in your app, pass a function
-// to log results (for example: reportWebVitals(console.log))
-// or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
 reportWebVitals();
+
+// 1. No date column, few mandate cols absent
+// 2. Few mandate cols absent, Null values
+// 3. Null values
+// 4. Null values, Empty last row
+// 5. Empty last row
+// 6. Perfect

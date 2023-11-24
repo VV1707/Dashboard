@@ -11,3 +11,23 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.appdiv{
+  display: flex;
+  flex-wrap: wrap;
+}
+.chartContainer{
+  width:680px;
+  height:450px;
+}
+.title{
+  font-weight:light;
+  margin-top:6px;
+  margin-left:5px;
+  margin-right:5px;
+  margin-bottom:6px;
+  background-color:#1976d2;
+  text-align:center;
+  padding-top:10px;
+  padding-bottom:10px;
+  font-weight:'light';
+}
