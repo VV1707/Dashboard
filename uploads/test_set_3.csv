@@ -1,0 +1,27 @@
+index_commodity_id,decision_month,geography_id,forecast_source,forecast_month,forecast_increase_pct,forecast_increase_pct_upper_bound,forecast_increase_pct_lower_bound
+NZX_Whole_Milk_Powder,08-01-2023,Global,Fresh Agenda,09-01-2023,-0.074648928,0,0
+NZX_Whole_Milk_Powder,08-01-2023,Global,Fresh Agenda,10-01-2023,-0.050258684,0,0
+NZX_Whole_Milk_Powder,08-01-2023,Global,Fresh Agenda,11-01-2023,-0.01736881,0,0
+NZX_Whole_Milk_Powder,08-01-2023,Global,Fresh Agenda,,0.004804139,0,0
+NZX_Whole_Milk_Powder,08-01-2023,Global,Fresh Agenda,01-01-2024,0.043237251,,0
+NZX_Whole_Milk_Powder,08-01-2023,Global,,02-01-2024,0.061345159,0,0
+NZX_Whole_Milk_Powder,08-01-2023,Global,Fresh Agenda,03-01-2024,0.10014782,0,0
+NZX_Whole_Milk_Powder,08-01-2023,Global,Fresh Agenda,04-01-2024,0.114190687,0,0
+NZX_Whole_Milk_Powder,08-01-2023,Global,Fresh Agenda,05-01-2024,,0,0
+NZX_Whole_Milk_Powder,08-01-2023,Global,Fresh Agenda,06-01-2024,0.110495196,0,0
+NZX_Whole_Milk_Powder,08-01-2023,Global,Fresh Agenda,07-01-2024,,0,0
+NZX_Whole_Milk_Powder,08-01-2023,Global,,08-01-2024,0.109386548,0,0
+NZX_Whole_Milk_Powder,08-01-2023,Global,Fresh Agenda,09-01-2024,0.137102735,0,0
+NZX_Whole_Milk_Powder,08-01-2023,Global,Rabobank,09-01-2023,0.18255728,0,0
+NZX_Whole_Milk_Powder,08-01-2023,Global,Rabobank,10-01-2023,,0,0
+NZX_Whole_Milk_Powder,08-01-2023,Global,,11-01-2023,0.237989653,0,0
+NZX_Whole_Milk_Powder,08-01-2023,Global,Rabobank,12-01-2023,0.237989653,0,0
+NZX_Whole_Milk_Powder,08-01-2023,Global,Rabobank,,0.25646711,0,0
+NZX_Whole_Milk_Powder,08-01-2023,Global,Rabobank,02-01-2024,,0,0
+NZX_Whole_Milk_Powder,08-01-2023,Global,Rabobank,03-01-2024,0.25646711,0,0
+NZX_Whole_Milk_Powder,08-01-2023,Global,,04-01-2024,0.25646711,0,0
+NZX_Whole_Milk_Powder,08-01-2023,Global,Rabobank,05-01-2024,0.25646711,0,0
+NZX_Whole_Milk_Powder,08-01-2023,Global,Rabobank,06-01-2024,0.25646711,0,0
+NZX_Whole_Milk_Powder,08-01-2023,Global,Rabobank,07-01-2024,0.25646711,0,0
+NZX_Whole_Milk_Powder,08-01-2023,Global,Rabobank,,,0,0
+NZX_Whole_Milk_Powder,08-01-2023,Global,Rabobank,09-01-2024,0.25646711,0,0

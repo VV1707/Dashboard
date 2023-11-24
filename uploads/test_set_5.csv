@@ -1,0 +1,28 @@
+index_commodity_id,decision_month,geography_id,forecast_source,forecast_month,price_forecast,forecast_increase_pct,forecast_increase_pct_upper_bound,forecast_increase_pct_lower_bound
+NZX_Whole_Milk_Powder,8/1/2023,Global,Fresh Agenda,9/1/2023,2504,-0.074648928,0,0
+NZX_Whole_Milk_Powder,8/1/2023,Global,Fresh Agenda,10/1/2023,2570,-0.050258684,0,0
+NZX_Whole_Milk_Powder,8/1/2023,Global,Fresh Agenda,11/1/2023,2659,-0.01736881,0,0
+NZX_Whole_Milk_Powder,8/1/2023,Global,Fresh Agenda,12/1/2023,2719,0.004804139,0,0
+NZX_Whole_Milk_Powder,8/1/2023,Global,Fresh Agenda,1/1/2024,2823,0.043237251,0,0
+NZX_Whole_Milk_Powder,8/1/2023,Global,Fresh Agenda,2/1/2024,2872,0.061345159,0,0
+NZX_Whole_Milk_Powder,8/1/2023,Global,Fresh Agenda,3/1/2024,2977,0.10014782,0,0
+NZX_Whole_Milk_Powder,8/1/2023,Global,Fresh Agenda,4/1/2024,3015,0.114190687,0,0
+NZX_Whole_Milk_Powder,8/1/2023,Global,Fresh Agenda,5/1/2024,3025,0.117886179,0,0
+NZX_Whole_Milk_Powder,8/1/2023,Global,Fresh Agenda,6/1/2024,3005,0.110495196,0,0
+NZX_Whole_Milk_Powder,8/1/2023,Global,Fresh Agenda,7/1/2024,2990,0.104951959,0,0
+NZX_Whole_Milk_Powder,8/1/2023,Global,Fresh Agenda,8/1/2024,3002,0.109386548,0,0
+NZX_Whole_Milk_Powder,8/1/2023,Global,Fresh Agenda,9/1/2024,3077,0.137102735,0,0
+NZX_Whole_Milk_Powder,8/1/2023,Global,Rabobank,9/1/2023,3200,0.18255728,0,0
+NZX_Whole_Milk_Powder,8/1/2023,Global,Rabobank,10/1/2023,3350,0.237989653,0,0
+NZX_Whole_Milk_Powder,8/1/2023,Global,Rabobank,11/1/2023,3350,0.237989653,0,0
+NZX_Whole_Milk_Powder,8/1/2023,Global,Rabobank,12/1/2023,3350,0.237989653,0,0
+NZX_Whole_Milk_Powder,8/1/2023,Global,Rabobank,1/1/2024,3400,0.25646711,0,0
+NZX_Whole_Milk_Powder,8/1/2023,Global,Rabobank,2/1/2024,3400,0.25646711,0,0
+NZX_Whole_Milk_Powder,8/1/2023,Global,Rabobank,3/1/2024,3400,0.25646711,0,0
+NZX_Whole_Milk_Powder,8/1/2023,Global,Rabobank,4/1/2024,3400,0.25646711,0,0
+NZX_Whole_Milk_Powder,8/1/2023,Global,Rabobank,5/1/2024,3400,0.25646711,0,0
+NZX_Whole_Milk_Powder,8/1/2023,Global,Rabobank,6/1/2024,3400,0.25646711,0,0
+NZX_Whole_Milk_Powder,8/1/2023,Global,Rabobank,7/1/2024,3400,0.25646711,0,0
+NZX_Whole_Milk_Powder,8/1/2023,Global,Rabobank,8/1/2024,3400,0.25646711,0,0
+NZX_Whole_Milk_Powder,8/1/2023,Global,Rabobank,9/1/2024,3400,0.25646711,0,0
+,,,,,,,
