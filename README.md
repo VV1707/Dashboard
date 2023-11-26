@@ -1,70 +1,9 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<img width="960" alt="image" src="https://github.com/VV1707/Dashboard/assets/79213323/20c866a2-d935-41a7-83c9-9832aa60304c">
+<img width="960" alt="image" src="https://github.com/VV1707/Dashboard/assets/79213323/867cd0ad-fb6e-4e5b-8a56-f29dc3fcd831">
+<img width="960" alt="image" src="https://github.com/VV1707/Dashboard/assets/79213323/95226486-fd3a-4249-a189-3a93ee870b2c">
+<img width="960" alt="image" src="https://github.com/VV1707/Dashboard/assets/79213323/9eee88a8-ab30-46fb-9c4e-ee82ca6d85ce">
+<img width="960" alt="image" src="https://github.com/VV1707/Dashboard/assets/79213323/c7e797a8-24a3-4240-bb21-6c2e633c7fba">
+<img width="960" alt="image" src="https://github.com/VV1707/Dashboard/assets/79213323/1bb0f790-dcdd-4f8e-8d8f-b34eaccfb11e">
+<img width="960" alt="image" src="https://github.com/VV1707/Dashboard/assets/79213323/e5d241c3-466e-4dcd-a1c2-3a8a4b859cbe">
+<img width="960" alt="image" src="https://github.com/VV1707/Dashboard/assets/79213323/b39ec82d-b8e8-4fcd-80f6-665d47c5c04a">
+<img width="959" alt="image" src="https://github.com/VV1707/Dashboard/assets/79213323/97209183-6bdb-450b-a171-82375701602b">
