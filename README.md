@@ -7,3 +7,6 @@
 <img width="960" alt="image" src="https://github.com/VV1707/Dashboard/assets/79213323/e5d241c3-466e-4dcd-a1c2-3a8a4b859cbe">
 <img width="960" alt="image" src="https://github.com/VV1707/Dashboard/assets/79213323/b39ec82d-b8e8-4fcd-80f6-665d47c5c04a">
 <img width="959" alt="image" src="https://github.com/VV1707/Dashboard/assets/79213323/97209183-6bdb-450b-a171-82375701602b">
+<img width="960" alt="image" src="https://github.com/VV1707/Dashboard/assets/79213323/9f2b3ef3-e39d-402b-a07f-5c987aec318b">
+<img width="960" alt="image" src="https://github.com/VV1707/Dashboard/assets/79213323/4a7b847e-d797-45e3-8cd9-07de8524fa2d">
+
