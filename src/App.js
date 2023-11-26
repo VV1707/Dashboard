@@ -9,7 +9,8 @@ import ColumnChart from './components/ColumnChart';
 import NestedJson from './components/NestedJson';
 import InfoCard from './components/InfoCard';
 import './index.css';
-import ReuploadButton from './components/ReuploadButton';
+import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
+
 
 // import { ThemeProvider } from '@mui/material/styles';
 // import Theme from './components/components/Theme';
@@ -45,11 +46,11 @@ function App({reupload=true})
                 <div>
                   {dataFromUploader.status ? (
                     <> 
-                    <ReuploadButton flag={false}/>
+                    {reupload && <Topbar flag={false} />}
                     <SuccessPage/> 
                     </>) : (
                     <>
-                    <ReuploadButton flag={true}/>
+                    {reupload && <Topbar flag={true} />}
                     {renderData()}
                     </>
                     )}
@@ -59,7 +60,7 @@ function App({reupload=true})
         else {
             return (
               <div>
-                <ReuploadButton flag={false}/>
+                {reupload && <Topbar flag={false}/>}
                 <Uploader onDataFromChild={handleDataFromUploader} />
               </div>
             );
@@ -123,8 +124,7 @@ function App({reupload=true})
   return (
     // <ThemeProvider theme={Theme}>
     <div>
-        {reupload && <Topbar/>}
-        {renderUploaderOrData()}
+        {renderUploaderOrData()}        
     </div>
     // </ThemeProvider>
   );

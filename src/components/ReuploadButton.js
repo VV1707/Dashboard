@@ -1,18 +1,15 @@
-import React, { useState } from 'react'
+import React from 'react'
 import { Button } from '@mui/material';
-import App from '../App';
-function ReuploadButton({flag}) {
-
-    const [reuploadState,setReuploadState]=useState(false);
+// import { useNavigate } from 'react-router-dom';
+function ReuploadButton() {
+    // const navigate = useNavigate();
     const handleClick=()=>{
-        setReuploadState(true);
+      // navigate('/');
     };
   return (
     <div>
-        {reuploadState ? <App reupload={false}/> :
-        <> {flag && <Button sx={{color:'#000000', ml:'90%'}} onClick={handleClick}>Reupload</Button>}</>
-        }
-        </div>
+      <Button sx={{color:'#ffffff'}} onClick={handleClick}>Reupload</Button>
+    </div>
   )
 }
 
