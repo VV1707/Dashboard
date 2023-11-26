@@ -38,11 +38,31 @@ function App({reupload=true})
         flexWrap: 'wrap'
     };
     const renderUploaderOrData = () => {
-        if (dataFromUploader) {
-        return dataFromUploader.status ? <SuccessPage /> : renderData();
-        } else {
-        return <Uploader onDataFromChild={handleDataFromUploader} />;
-        }
+        if (dataFromUploader) 
+        {   
+            return (
+                <div>
+                  {dataFromUploader.status ? (
+                    <> 
+                    {reupload && <Topbar flag={false} />}
+                    <SuccessPage/> 
+                    </>) : (
+                    <>
+                    {reupload && <Topbar flag={true} />}
+                    {renderData()}
+                    </>
+                    )}
+                </div>
+              );
+        } 
+        else {
+            return (
+              <div>
+                {reupload && <div className='main'><Topbar flag={false}/></div>}
+                <Uploader onDataFromChild={handleDataFromUploader} />
+              </div>
+            );
+          }
     };
     const renderData = () => (
         <div>
@@ -102,8 +122,7 @@ function App({reupload=true})
   return (
     // <ThemeProvider theme={Theme}>
     <div>
-      {reupload && <div className='main'><Topbar /></div>}
-      {renderUploaderOrData()}
+        {renderUploaderOrData()}
     </div>
     // </ThemeProvider>
   );
